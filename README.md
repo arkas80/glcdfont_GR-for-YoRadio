@@ -9,9 +9,10 @@
 
 Τα αρχεία από αυτό το ZIP έχουν τις απαραίτητες αλλαγές για υποστήριξη ελληνικών 
 και πρέπει να αντιγραφούν στις ακόλουθες τοποθεσίες:
-ο) displayL10n_custom.h ----> yoRadio\locale
-ο) glcdfont.c           ----> \Arduino\libraries\Adafruit_GFX_Library
-ο) utf8RusGFX.h         ----> yoRadio\src\displays\tools
+1) displayL10n_custom.h ----> yoRadio\locale
+2) glcdfont.c           ----> \Arduino\libraries\Adafruit_GFX_Library
+3) utf8RusGFX.h         ----> yoRadio\src\displays\tools
+4) myoptions.h        ----> change to RU  as you saw ----> #define L10N_LANGUAGE     RU
 
 Το αρχείο "Ελληνικοί χαρακτήρες.docx" δείχνει τους χαρακτήρες που περιέχει το 
 τροποποιημένο αρχείο glcdfont.c
