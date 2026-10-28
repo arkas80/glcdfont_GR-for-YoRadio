@@ -18,7 +18,7 @@
 τροποποιημένο αρχείο glcdfont.c
 
 ## Συντελεστές / Credits
-* **arkas80** - Δημιουργός
+* **[arkas80](https://github.com/arkas80)** -  Δημιουργός
 * **[gregsmia](https://github.com/gregsmia)** - Συνδημιουργός / Συνεισφορά
 
 
